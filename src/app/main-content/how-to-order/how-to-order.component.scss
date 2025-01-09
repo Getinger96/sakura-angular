@@ -1,0 +1,43 @@
+section {
+    padding-top: 120px;
+    padding-bottom: 120px;
+
+
+
+
+}
+.OrderHeadline{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 64px;
+    >h2{
+        font-size: 80px;
+        color: #9F0908;
+        font-family: 'Raleway';
+
+    }
+}
+
+.pick{
+    display: flex;
+  justify-content: space-evenly;
+
+
+
+>div {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Economica';
+    gap: 8px;
+    font-size: 48px;
+    font-weight: bold;
+}
+}
+
+
+img {
+    width: 128px;
+
+}
